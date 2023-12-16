@@ -46,7 +46,7 @@ const AllTask = () => {
               <button className="btn btn btn-outline-dark btn-lg d-flex align-items-center"
               style={{color:'#974fd0'}}>
                 <img src={delectLogo} alt="delect-logo"  />
-                Delect
+                Delete
               </button>
             </div>
             
@@ -79,7 +79,7 @@ const AllTask = () => {
             <button className="btn  btn-outline-dark btn-lg d-flex align-items-center"
               style={{color:'#974fd0'}}>
                 <img src={delectLogo} alt="delect-logo"  />
-                Delect
+                Delete
               </button>
             
 
@@ -111,7 +111,7 @@ const AllTask = () => {
             <button className="btn  btn-outline-dark btn-lg d-flex align-items-center"
               style={{color:'#974fd0'}}>
                 <img src={delectLogo} alt="delect-logo"  />
-                Delect
+                Delete
               </button>
             
 
@@ -143,7 +143,7 @@ const AllTask = () => {
             <button className="btn  btn-outline-dark btn-lg d-flex align-items-center"
               style={{color:'#974fd0'}}>
                 <img src={delectLogo} alt="delect-logo"  />
-                Delect
+                Delete
               </button>
             
 
