@@ -1,0 +1,21 @@
+/* button{
+  background-color: #974FD0;
+  color: white;
+  border: #974FD0;
+  border-radius: 4px;
+}
+input::placeholder{
+  color: black;
+} */
+
+.mission{
+width: 40px;
+}
+.to-tasks{
+  background-color: #974fd0;
+  border-radius: 5px;
+  border: none;
+  color: white;
+  width: 13rem;
+  font-size: large;
+}
