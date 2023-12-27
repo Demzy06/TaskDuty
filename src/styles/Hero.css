@@ -1,3 +1,4 @@
+  @import url('https://fonts.googleapis.com/css2?family=Signika+Negative&display=swap');
 /* button{
   background-color: #974FD0;
   color: white;
@@ -9,7 +10,7 @@ input::placeholder{
 } */
 
 .mission{
-width: 40px;
+  font-family: 'Signika Negative', sans-serif;
 }
 .to-tasks{
   background-color: #974fd0;

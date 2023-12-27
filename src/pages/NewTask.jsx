@@ -55,7 +55,7 @@ const NewTask = ()=>{
           Done
         </button>
       </div>
-      <Link onClick={scrollToTop}>
+      <Link onClick={scrollToTop} className="text-decoration-none">
         <p className="text-center fs-4 mt-5" style={{ color: "#974FD0" }}>
           Back to Top
         </p>
